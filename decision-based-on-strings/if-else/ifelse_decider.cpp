@@ -21,7 +21,7 @@ std::string getAxl()
 std::string getVocalist(const std::string& iString)
 {
 	if (iString == "Touch Too Much") { return getBonScott();}
-	else if (iString == "hellsBells") { return getBrian();}
+	else if (iString == "Hells Bells") { return getBrian();}
 	else if (iString == "Whole Lotta Rosie") { return getAxl();}
 	else {return getBonScott();}
 }
