@@ -1,0 +1,6 @@
+.cproject
+.project
+*.a
+*.o
+gtest
+ifelse_decider
